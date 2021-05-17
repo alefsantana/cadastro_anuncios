@@ -1,16 +1,39 @@
-# cadastro_usurarios
+# Cadastro de Usuários para Campanha
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alefsantana/parte2_projeto/blob/master/LICENSE) 
 
-A new Flutter project.
+# Sobre o projeto 📁
 
-## Getting Started
+Cadastro de Usuários é uma aplicação mobile construída durante edição da **Academia Capgemini** , evento organizado pela [Proway](https://www.proway.com.br/ "Site da Proway").
 
-This project is a starting point for a Flutter application.
+A aplicação consiste em um cadastro de anúncios, onde os dados são coletados no app mobile, e depois é gerado um relatório com o alcance dos anúncios.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile 📱
+![Mobile 1](https://github.com/alefsantana/assets/blob/main/asset_cadastro1.png) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/asset_cadastro2.png) ![Mobile 3](https://github.com/alefsantana/assets/blob/main/asset_cadastro3.png) ![Mobile 4](https://github.com/alefsantana/assets/blob/main/asset_cadastro4.png) ![Mobile 5](https://github.com/alefsantana/assets/blob/main/asset_cadastro5.png) ![Mobile 6](https://github.com/alefsantana/assets/blob/main/asset_cadastro6.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias utilizadas ⚙️
+
+- Flutter
+- Sqflite 
+
+# Funcionalidades 📌
+
+- Cadastrar um Novo Aúncio
+- Editar um Anúncio Cadastrado 
+- Excluir um Anúncio
+- Consultar Relatório de Alcance 
+- Pesquisar Relatório. 
+
+# Como executar o projeto 📥
+## No Emulador
+Execute o arquivo debug.apk
+
+## No Dispositivo Móvel  
+Execute o arquivo release.apk
+
+
+# Autor 👨‍🎓
+
+Alef Santana 
+
+https://www.linkedin.com/in/alef-santana-28a914133/
